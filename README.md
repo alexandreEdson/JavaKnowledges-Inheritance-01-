@@ -12,7 +12,9 @@ acrescentados na etiqueta de preço.</br>
 Para produtos importados, a taxa e alfândega deve </br>
 ser acrescentada ao preço final do produto.</br></p>
 
-<p>Enter the number of products: 3</br>
+<h2>Console</h2>
+
+<strong><p>Enter the number of products: 3</br>
 Product #1 data:</br>
 Common, used or imported (c/u/i)? i</br>
 Name: Tablet</br>
@@ -26,10 +28,11 @@ Product #3 data:</br>
 Common, used or imported (c/u/i)? u</br>
 Name: Iphone</br>
 Price: 400.00</br>
-Manufacture date (DD/MM/YYYY): 15/03/2017</br>
-PRICE TAGS:</br>
+Manufacture date (DD/MM/YYYY): 15/03/2017</br></strong></p>
+
+<h2>Output</h2>
+
+<p>PRICE TAGS:</br>
 Tablet $ 280.00 (Customs fee: $ 20.00)</br>
 Notebook $ 1100.00</br>
-Iphone (used) $ 400.00 (Manufacture date: 15/03/2017)</br></p>
-
-<p><footer>Prof. Dr. Nelio Alves</footer></p>
+Iphone (used) $ 400.00 (Manufacture date: 15/03/2017)</br></p></strong>
